@@ -1,0 +1,4 @@
+﻿  Task1.cpp
+D:\Universitet\domashno UP+OOP\OOP\Task1\Task1\Clubs.h(82,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+D:\Universitet\domashno UP+OOP\OOP\Task1\Task1\Clubs.h(84,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Task1.vcxproj -> D:\Universitet\domashno UP+OOP\OOP\Task1\Debug\Task1.exe
